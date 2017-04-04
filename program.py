@@ -1,6 +1,7 @@
 from random import randint
 import sys
 
+
 def vypíš(gs):
     print('Hráč číslo 1: ',gs[0])
     print('Hráč číslo 2: ',gs[1])
@@ -9,7 +10,7 @@ def vypíš(gs):
 
 
 def update_gs(gs, hod, hrac, figurka):
-    gs = gs[:hrac] + (gs[hrac][:figurka] + (gs[hrac][figurka] + hod,) + gs[hrac][figurka+1:],) + gs[hrac+1:]
+    gs = gs[:hrac] + (gs[hrac][:figurka] + ((gs[hrac][figurka] + hod) % 40,) + gs[hrac][figurka+1:],) + gs[hrac+1:]
     return gs
 
 
@@ -24,6 +25,6 @@ while 1:
     print('hráč číslo: ',hrac+1, 'kocka: ',kocka)
     print('zadaj číslo panáčika (1-4):')
     prikaz = int(input())-1
-    if prikaz == -1:
+    if prikaz == -2:
         sys.exit()
     stav_hry = update_gs(stav_hry, kocka, int(hrac), prikaz)
