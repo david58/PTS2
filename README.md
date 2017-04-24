@@ -13,24 +13,24 @@ testovacie programy.
 
 Ako si napríklad máte predstaviť terminálové človeče
 
-Player 2 is on turn.
-Dice: 4.
-Player 0's pieces are on fields: 0:40 1:41 2:42 3:43
-Player 1's pieces are on fields: 0:44 1:45 2:46 3:47
-Player 2's pieces are on fields: 0:48 1:49 2:50 3:51
-Player 3's pieces are on fields: 0:52 1:53 2:54 3:30
->pass
->throw
-Player 3 is on turn.
-Dice: 5.
-Player 0's pieces are on fields: 0:40 1:41 2:42 3:43
-Player 1's pieces are on fields: 0:44 1:45 2:46 3:47
-Player 2's pieces are on fields: 0:48 1:49 2:50 3:51
-Player 3's pieces are on fields: 0:52 1:53 2:54 3:30
->move 3
-Player 0 is on turn.
-Dice: 0.
-Player 0's pieces are on fields: 0:40 1:41 2:42 3:43
-Player 1's pieces are on fields: 0:44 1:45 2:46 3:47
-Player 2's pieces are on fields: 0:48 1:49 2:50 3:51
-Player 3's pieces are on fields: 0:52 1:53 2:54 3:35
+Player 2 is on turn.  
+Dice: 4.  
+Player 0's pieces are on fields: 0:40 1:41 2:42 3:43  
+Player 1's pieces are on fields: 0:44 1:45 2:46 3:47  
+Player 2's pieces are on fields: 0:48 1:49 2:50 3:51  
+Player 3's pieces are on fields: 0:52 1:53 2:54 3:30  
+\>pass  
+\>throw  
+Player 3 is on turn.  
+Dice: 5.  
+Player 0's pieces are on fields: 0:40 1:41 2:42 3:43  
+Player 1's pieces are on fields: 0:44 1:45 2:46 3:47  
+Player 2's pieces are on fields: 0:48 1:49 2:50 3:51  
+Player 3's pieces are on fields: 0:52 1:53 2:54 3:30  
+\>move 3  
+Player 0 is on turn.  
+Dice: 0.  
+Player 0's pieces are on fields: 0:40 1:41 2:42 3:43  
+Player 1's pieces are on fields: 0:44 1:45 2:46 3:47  
+Player 2's pieces are on fields: 0:48 1:49 2:50 3:51  
+Player 3's pieces are on fields: 0:52 1:53 2:54 3:35  
