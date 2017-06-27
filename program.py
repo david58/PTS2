@@ -30,16 +30,27 @@ def update_gs(gs, hod, hrac, figurka):
 
 
 stav_hry = ((0, 1, 2, 3), (10, 11, 12, 13), (20, 21, 22, 23), (30, 31, 32, 33))
-hrac_na_tahu = randint(0, 3)
+hrac_na_tahu = 0
 print('zadaj -1 pre ukončenie')
 while 1:
     vypíš(stav_hry)
     hrac_na_tahu += 1
     hrac_na_tahu %= 4
-    kocka = randint(1, 6)
+    kocka = 0
+    while kocka<1 or kocka>6:
+        print('zadaj číslo na kocke:')
+#       kocka = randint(1, 6)
+        kocka = int(input())
+        if kocka<1 or kocka>6:
+            print('nesprávne číslo, ešte raz')
     print('hráč číslo: ', hrac_na_tahu+1, 'kocka: ', kocka)
-    print('zadaj číslo panáčika (1-4):')
-    prikaz = int(input())-1
-    if prikaz == -2:
-        sys.exit()
+    prikaz=-3
+    while prikaz<-2 or prikaz>3:
+        print('zadaj číslo panáčika (1-4):')
+        prikaz = int(input())-1
+        if prikaz == -2:
+            sys.exit()
+        if prikaz<-2 or prikaz>3:
+            print('nesprávne číslo, ešte raz')
+
     stav_hry = update_gs(stav_hry, kocka, int(hrac_na_tahu), prikaz)
