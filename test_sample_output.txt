@@ -1,0 +1,124 @@
+zadaj -1 pre ukončenie
+Hráč číslo 1:  (0, 1, 2, 3)
+Hráč číslo 2:  (10, 11, 12, 13)
+Hráč číslo 3:  (20, 21, 22, 23)
+Hráč číslo 4:  (30, 31, 32, 33)
+zadaj číslo na kocke:
+hráč číslo:  2 kocka:  1
+zadaj číslo panáčika (1-4):
+Hráč číslo 1:  (0, 1, 2, 3)
+Hráč číslo 2:  (10, 12, 12, 13)
+Hráč číslo 3:  (20, 21, 22, 23)
+Hráč číslo 4:  (30, 31, 32, 33)
+zadaj číslo na kocke:
+hráč číslo:  3 kocka:  5
+zadaj číslo panáčika (1-4):
+Hráč číslo 1:  (0, 1, 2, 3)
+Hráč číslo 2:  (10, 12, 12, 13)
+Hráč číslo 3:  (20, 21, 22, 28)
+Hráč číslo 4:  (30, 31, 32, 33)
+zadaj číslo na kocke:
+hráč číslo:  4 kocka:  1
+zadaj číslo panáčika (1-4):
+Hráč číslo 1:  (0, 1, 2, 3)
+Hráč číslo 2:  (10, 12, 12, 13)
+Hráč číslo 3:  (20, 21, 22, 28)
+Hráč číslo 4:  (30, 32, 32, 33)
+zadaj číslo na kocke:
+hráč číslo:  1 kocka:  3
+zadaj číslo panáčika (1-4):
+Hráč číslo 1:  (0, 4, 2, 3)
+Hráč číslo 2:  (10, 12, 12, 13)
+Hráč číslo 3:  (20, 21, 22, 28)
+Hráč číslo 4:  (30, 32, 32, 33)
+zadaj číslo na kocke:
+hráč číslo:  2 kocka:  1
+zadaj číslo panáčika (1-4):
+Hráč číslo 1:  (0, 4, 2, 3)
+Hráč číslo 2:  (10, 12, 12, 14)
+Hráč číslo 3:  (20, 21, 22, 28)
+Hráč číslo 4:  (30, 32, 32, 33)
+zadaj číslo na kocke:
+hráč číslo:  3 kocka:  5
+zadaj číslo panáčika (1-4):
+Hráč číslo 1:  (0, 4, 2, 3)
+Hráč číslo 2:  (10, 12, 12, 14)
+Hráč číslo 3:  (20, 26, 22, 28)
+Hráč číslo 4:  (30, 32, 32, 33)
+zadaj číslo na kocke:
+hráč číslo:  4 kocka:  3
+zadaj číslo panáčika (1-4):
+nesprávne číslo, ešte raz
+zadaj číslo panáčika (1-4):
+Hráč číslo 1:  (0, 4, 2, 3)
+Hráč číslo 2:  (10, 12, 12, 14)
+Hráč číslo 3:  (20, 26, 22, 28)
+Hráč číslo 4:  (30, 32, 32, 36)
+zadaj číslo na kocke:
+hráč číslo:  1 kocka:  1
+zadaj číslo panáčika (1-4):
+Hráč číslo 1:  (0, 5, 2, 3)
+Hráč číslo 2:  (10, 12, 12, 14)
+Hráč číslo 3:  (20, 26, 22, 28)
+Hráč číslo 4:  (30, 32, 32, 36)
+zadaj číslo na kocke:
+hráč číslo:  2 kocka:  5
+zadaj číslo panáčika (1-4):
+Hráč číslo 1:  (0, 5, 2, 3)
+Hráč číslo 2:  (10, 12, 12, 19)
+Hráč číslo 3:  (20, 26, 22, 28)
+Hráč číslo 4:  (30, 32, 32, 36)
+zadaj číslo na kocke:
+hráč číslo:  3 kocka:  1
+zadaj číslo panáčika (1-4):
+Hráč číslo 1:  (0, 5, 2, 3)
+Hráč číslo 2:  (10, 12, 12, 19)
+Hráč číslo 3:  (20, 27, 22, 28)
+Hráč číslo 4:  (30, 32, 32, 36)
+zadaj číslo na kocke:
+hráč číslo:  4 kocka:  5
+zadaj číslo panáčika (1-4):
+Hráč číslo 1:  (0, 5, 2, 3)
+Hráč číslo 2:  (10, 12, 12, 19)
+Hráč číslo 3:  (20, 27, 22, 28)
+Hráč číslo 4:  (30, 32, 32, 1)
+zadaj číslo na kocke:
+hráč číslo:  1 kocka:  5
+zadaj číslo panáčika (1-4):
+nesprávne číslo, ešte raz
+zadaj číslo panáčika (1-4):
+Hráč číslo 1:  (0, 10, 2, 3)
+Hráč číslo 2:  (10, 12, 12, 19)
+Hráč číslo 3:  (20, 27, 22, 28)
+Hráč číslo 4:  (30, 32, 32, 1)
+zadaj číslo na kocke:
+hráč číslo:  2 kocka:  5
+zadaj číslo panáčika (1-4):
+Hráč číslo 1:  (0, 10, 2, 3)
+Hráč číslo 2:  (15, 12, 12, 19)
+Hráč číslo 3:  (20, 27, 22, 28)
+Hráč číslo 4:  (30, 32, 32, 1)
+zadaj číslo na kocke:
+hráč číslo:  3 kocka:  5
+zadaj číslo panáčika (1-4):
+nesprávne číslo, ešte raz
+zadaj číslo panáčika (1-4):
+nesprávne číslo, ešte raz
+zadaj číslo panáčika (1-4):
+nesprávne číslo, ešte raz
+zadaj číslo panáčika (1-4):
+nesprávne číslo, ešte raz
+zadaj číslo panáčika (1-4):
+nesprávne číslo, ešte raz
+zadaj číslo panáčika (1-4):
+nesprávne číslo, ešte raz
+zadaj číslo panáčika (1-4):
+nesprávne číslo, ešte raz
+zadaj číslo panáčika (1-4):
+Hráč číslo 1:  (0, 10, 2, 3)
+Hráč číslo 2:  (15, 12, 12, 19)
+Hráč číslo 3:  (20, 32, 22, 28)
+Hráč číslo 4:  (30, 31, 32, 1)
+zadaj číslo na kocke:
+hráč číslo:  4 kocka:  3
+zadaj číslo panáčika (1-4):
